@@ -45,7 +45,11 @@ namespace TOEICWEB.Controllers
                         LoaiLoTrinh = lt.LoaiLoTrinh,
                         MucTieuDiem = lt.MucTieuDiem ?? 0,
                         TongSoBai = (int)lt.TongSoBai,
-                        NgayTao = lt.NgayTao ?? DateTime.MinValue
+                        NgayTao = lt.NgayTao ?? DateTime.MinValue,
+
+                        // NEW:
+                        KyNangTrongTam = lt.KyNangTrongTam,
+                        ChuDeBaiHoc = lt.ChuDeBaiHoc
                     })
                     .OrderBy(lt => lt.CapDo)
                     .ThenBy(lt => lt.NgayTao)
@@ -83,7 +87,11 @@ namespace TOEICWEB.Controllers
                         LoaiLoTrinh = lt.LoaiLoTrinh,
                         MucTieuDiem = lt.MucTieuDiem ?? 0,
                         TongSoBai = (int)lt.TongSoBai,
-                        NgayTao = lt.NgayTao ?? DateTime.MinValue
+                        NgayTao = lt.NgayTao ?? DateTime.MinValue,
+
+                        // NEW:
+                        KyNangTrongTam = lt.KyNangTrongTam,
+                        ChuDeBaiHoc = lt.ChuDeBaiHoc
                     })
                     .FirstOrDefaultAsync();
 
@@ -290,6 +298,9 @@ namespace TOEICWEB.Controllers
                     dk.lt.MoTa,
                     dk.lt.CapDo,
                     dk.lt.ThoiGianDuKien,
+                    // NEW: include new fields in user's lo trinh list
+                    KyNangTrongTam = dk.lt.KyNangTrongTam,
+                    ChuDeBaiHoc = dk.lt.ChuDeBaiHoc,
                     TongSoBai = (int)dk.lt.TongSoBai,
                     NgayDangKy = dk.dk.NgayDangKy ?? DateTime.MinValue,
                     dk.dk.TrangThai,
@@ -404,6 +415,9 @@ namespace TOEICWEB.Controllers
                     {
                         x.dk.MaLoTrinh,
                         x.lt.TenLoTrinh,
+                        // NEW: include the two new fields in schedule summary
+                        KyNangTrongTam = x.lt.KyNangTrongTam,
+                        ChuDeBaiHoc = x.lt.ChuDeBaiHoc,
                         ngayBatDau = (x.dk.NgayDangKy ?? DateTime.Now).ToString("yyyy-MM-dd"),
                         ngayKetThuc = (x.dk.NgayDangKy ?? DateTime.Now)
                             .AddDays(ConvertToInt(x.lt.ThoiGianDuKien, 30))

@@ -11,5 +11,9 @@
         public int? MucTieuDiem { get; set; }
         public int TongSoBai { get; set; }
         public DateTime NgayTao { get; set; }
+
+        // NEW: expose the two new text fields to clients
+        public string? KyNangTrongTam { get; set; }
+        public string? ChuDeBaiHoc { get; set; }
     }
 }

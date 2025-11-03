@@ -3673,11 +3673,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\vs2022\\TOEICWEB\\TOEICWEB\\TOEICWEB.csproj",
+      "projectUniqueName": "D:\\Ki 7 - Nam 4\\ProjectOne\\Clone-Toeic\\Webtoiec\\TOEICWEB\\TOEICWEB.csproj",
       "projectName": "TOEICWEB",
-      "projectPath": "D:\\CODE\\vs2022\\TOEICWEB\\TOEICWEB\\TOEICWEB.csproj",
+      "projectPath": "D:\\Ki 7 - Nam 4\\ProjectOne\\Clone-Toeic\\Webtoiec\\TOEICWEB\\TOEICWEB.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\CODE\\vs2022\\TOEICWEB\\TOEICWEB\\obj\\",
+      "outputPath": "D:\\Ki 7 - Nam 4\\ProjectOne\\Clone-Toeic\\Webtoiec\\TOEICWEB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3692,7 +3692,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3769,7 +3768,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

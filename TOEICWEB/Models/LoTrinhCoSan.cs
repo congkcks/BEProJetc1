@@ -23,6 +23,10 @@ public partial class LoTrinhCoSan
 
     public DateTime? NgayTao { get; set; }
 
+    public string? KyNangTrongTam { get; set; }
+
+    public string? ChuDeBaiHoc { get; set; }
+
     public virtual ICollection<BaiHoc> BaiHocs { get; set; } = new List<BaiHoc>();
 
     public virtual ICollection<DangKyLoTrinh> DangKyLoTrinhs { get; set; } = new List<DangKyLoTrinh>();

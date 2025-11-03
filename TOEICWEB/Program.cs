@@ -48,7 +48,7 @@ builder.Services.AddCors(options =>
     // Hoặc cấu hình cụ thể với domain
     options.AddPolicy("AllowFrontend", policy =>
     {
-        policy.WithOrigins("http://localhost:3000", "http://localhost:5173")
+        policy.WithOrigins("http://localhost:3000", "http://localhost:5173", "http://localhost:8080")
               .AllowAnyMethod()
               .AllowAnyHeader()
               .AllowCredentials();

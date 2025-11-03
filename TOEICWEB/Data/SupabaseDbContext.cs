@@ -613,6 +613,14 @@ public partial class SupabaseDbContext : DbContext
                 .HasMaxLength(50)
                 .HasColumnName("thoi_gian_du_kien");
             entity.Property(e => e.TongSoBai).HasColumnName("tong_so_bai");
+
+            // NEW: map the two new text columns
+            entity.Property(e => e.KyNangTrongTam)
+                .HasColumnType("text")
+                .HasColumnName("ky_nang_trong_tam");
+            entity.Property(e => e.ChuDeBaiHoc)
+                .HasColumnType("text")
+                .HasColumnName("chu_de_bai_hoc");
         });
 
         modelBuilder.Entity<LogHoatDong>(entity =>
