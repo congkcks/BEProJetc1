@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOEICWEB", "TOEICWEB\TOEICWEB.csproj", "{3ED62001-C372-4CB6-98E9-21BFEC101B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED62001-C372-4CB6-98E9-21BFEC101B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED62001-C372-4CB6-98E9-21BFEC101B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED62001-C372-4CB6-98E9-21BFEC101B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED62001-C372-4CB6-98E9-21BFEC101B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFA744B9-2E61-4448-AEB3-5AE4DB8A2051}
+	EndGlobalSection
+EndGlobal

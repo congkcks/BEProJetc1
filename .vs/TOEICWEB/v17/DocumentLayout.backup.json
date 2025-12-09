@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Toeic\\BACKEND\\Webtoiec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|d:\\toeic\\backend\\webtoiec\\toeicweb\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|solutionrelative:toeicweb\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|d:\\toeic\\backend\\webtoiec\\toeicweb\\controllers\\lotrinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|solutionrelative:toeicweb\\controllers\\lotrinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|d:\\toeic\\backend\\webtoiec\\toeicweb\\controllers\\baihoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|solutionrelative:toeicweb\\controllers\\baihoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Toeic\\BACKEND\\Webtoiec\\TOEICWEB\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TOEICWEB\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Toeic\\BACKEND\\Webtoiec\\TOEICWEB\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TOEICWEB\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAkwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:35:31.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoTrinhController.cs",
+              "DocumentMoniker": "D:\\Toeic\\BACKEND\\Webtoiec\\TOEICWEB\\Controllers\\LoTrinhController.cs",
+              "RelativeDocumentMoniker": "TOEICWEB\\Controllers\\LoTrinhController.cs",
+              "ToolTip": "D:\\Toeic\\BACKEND\\Webtoiec\\TOEICWEB\\Controllers\\LoTrinhController.cs",
+              "RelativeToolTip": "TOEICWEB\\Controllers\\LoTrinhController.cs",
+              "ViewState": "AgIAAPoCAAAAAAAAAAAYwCcDAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:07:54.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaiHocController.cs",
+              "DocumentMoniker": "D:\\Toeic\\BACKEND\\Webtoiec\\TOEICWEB\\Controllers\\BaiHocController.cs",
+              "RelativeDocumentMoniker": "TOEICWEB\\Controllers\\BaiHocController.cs",
+              "ToolTip": "D:\\Toeic\\BACKEND\\Webtoiec\\TOEICWEB\\Controllers\\BaiHocController.cs",
+              "RelativeToolTip": "TOEICWEB\\Controllers\\BaiHocController.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAAAMQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:42:32.794Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 710,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

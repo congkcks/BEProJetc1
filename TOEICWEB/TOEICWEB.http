@@ -1,0 +1,6 @@
+@TOEICWEB_HostAddress = http://localhost:5153
+
+GET {{TOEICWEB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

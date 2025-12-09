@@ -1,0 +1,874 @@
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\appsettings.Development.json
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\appsettings.json
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\TOEICWEB.staticwebassets.endpoints.json
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\TOEICWEB.exe
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\TOEICWEB.deps.json
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\TOEICWEB.runtimeconfig.json
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\TOEICWEB.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\TOEICWEB.pdb
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Humanizer.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Npgsql.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\System.CodeDom.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\System.Text.Json.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.AssemblyReference.cache
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\TOEICWEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\TOEICWEB.AssemblyInfoInputs.cache
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\TOEICWEB.AssemblyInfo.cs
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.CoreCompileInputs.cache
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\TOEICWEB.MvcApplicationPartsAssemblyInfo.cs
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\TOEICWEB.MvcApplicationPartsAssemblyInfo.cache
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\scopedcss\bundle\TOEICWEB.styles.css
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.json
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\staticwebassets.development.json
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.Up2Date
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\TOEICWEB.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\refint\TOEICWEB.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\TOEICWEB.pdb
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\TOEICWEB.genruntimeconfig.cache
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\ref\TOEICWEB.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CODE\vs2022\TOEICWEB\TOEICWEB\obj\Debug\net8.0\TOEICWEB.sourcelink.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\appsettings.Development.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\appsettings.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.staticwebassets.endpoints.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.exe
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.deps.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.runtimeconfig.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.pdb
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Humanizer.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Npgsql.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.CodeDom.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Text.Json.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.AssemblyReference.cache
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.AssemblyInfoInputs.cache
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.AssemblyInfo.cs
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.CoreCompileInputs.cache
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.MvcApplicationPartsAssemblyInfo.cs
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.MvcApplicationPartsAssemblyInfo.cache
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.sourcelink.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\scopedcss\bundle\TOEICWEB.styles.css
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.Up2Date
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\refint\TOEICWEB.dll
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.pdb
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.genruntimeconfig.cache
+D:\Ki 7 - Nam 4\ProjectOne\Clone-Toeic\Webtoiec\TOEICWEB\obj\Debug\net8.0\ref\TOEICWEB.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\appsettings.Development.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\appsettings.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.staticwebassets.endpoints.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.exe
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.deps.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.runtimeconfig.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.pdb
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Humanizer.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Npgsql.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.CodeDom.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Text.Json.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.AssemblyReference.cache
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rpswa.dswa.cache.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.GeneratedMSBuildEditorConfig.editorconfig
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.AssemblyInfoInputs.cache
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.AssemblyInfo.cs
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.CoreCompileInputs.cache
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.MvcApplicationPartsAssemblyInfo.cs
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.MvcApplicationPartsAssemblyInfo.cache
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.sourcelink.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjimswa.dswa.cache.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\scopedcss\bundle\TOEICWEB.styles.css
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.json.cache
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.development.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.Up2Date
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\refint\TOEICWEB.dll
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.pdb
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.genruntimeconfig.cache
+H:\Hocki7\New folder\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\ref\TOEICWEB.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\appsettings.Development.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\appsettings.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.staticwebassets.endpoints.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.exe
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.deps.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.runtimeconfig.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.pdb
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Humanizer.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Npgsql.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.CodeDom.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Text.Json.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.AssemblyReference.cache
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.AssemblyInfoInputs.cache
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.AssemblyInfo.cs
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.CoreCompileInputs.cache
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.MvcApplicationPartsAssemblyInfo.cs
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.MvcApplicationPartsAssemblyInfo.cache
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.sourcelink.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\scopedcss\bundle\TOEICWEB.styles.css
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.Up2Date
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\refint\TOEICWEB.dll
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.pdb
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.genruntimeconfig.cache
+D:\Ki 7 - Nam 4\ProjectOne\clonetung\Toeic\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\ref\TOEICWEB.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\appsettings.Development.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\appsettings.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.staticwebassets.endpoints.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.exe
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.deps.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.runtimeconfig.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.pdb
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Humanizer.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Npgsql.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.CodeDom.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Text.Json.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.AssemblyReference.cache
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rpswa.dswa.cache.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.GeneratedMSBuildEditorConfig.editorconfig
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.AssemblyInfoInputs.cache
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.AssemblyInfo.cs
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.CoreCompileInputs.cache
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.MvcApplicationPartsAssemblyInfo.cs
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.MvcApplicationPartsAssemblyInfo.cache
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.sourcelink.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjimswa.dswa.cache.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\scopedcss\bundle\TOEICWEB.styles.css
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.json.cache
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.development.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.Up2Date
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\refint\TOEICWEB.dll
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.pdb
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.genruntimeconfig.cache
+H:\Hocki7\Project 1\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\ref\TOEICWEB.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\appsettings.Development.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\appsettings.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.staticwebassets.endpoints.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.exe
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.deps.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.runtimeconfig.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\TOEICWEB.pdb
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Humanizer.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Npgsql.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.CodeDom.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\System.Text.Json.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.AssemblyReference.cache
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.AssemblyInfoInputs.cache
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.AssemblyInfo.cs
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.CoreCompileInputs.cache
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.MvcApplicationPartsAssemblyInfo.cs
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.MvcApplicationPartsAssemblyInfo.cache
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.sourcelink.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\scopedcss\bundle\TOEICWEB.styles.css
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.development.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.csproj.Up2Date
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\refint\TOEICWEB.dll
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.pdb
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\TOEICWEB.genruntimeconfig.cache
+D:\Toeic\BACKEND\Webtoiec\TOEICWEB\obj\Debug\net8.0\ref\TOEICWEB.dll
