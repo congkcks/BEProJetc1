@@ -135,7 +135,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 // ✅ Sử dụng CORS (phải trước Authentication)
-app.UseCors("AllowFrontend"); // hoặc "AllowAll"
+app.UseCors("AllowAll"); // hoặc "AllowAll"
 
 // 🔎 Ghi log nhanh header Authorization trước khi vào Authentication để xác nhận client có gửi token
 app.Use(async (context, next) =>
