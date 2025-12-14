@@ -971,7 +971,7 @@ namespace ToeicWeb.Controllers
                 MoTa = request.MoTa,
                 ThoiLuongPhut = request.ThoiLuongPhut,
                 SoThuTu = request.SoThuTu ?? await GetNextLessonOrderAsync(request.MaLoTrinh),
-                NgayTao = DateTime.UtcNow
+                NgayTao = DateTime.SpecifyKind(DateTime.UtcNow, DateTimeKind.Unspecified)
             };
 
             _context.BaiHocs.Add(lesson);

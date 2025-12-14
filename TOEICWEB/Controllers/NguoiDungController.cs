@@ -236,7 +236,7 @@ public class NguoiDungController : ControllerBase
             MatKhau = matKhau,
             VaiTro = vaiTro,
             SoDienThoai = string.IsNullOrWhiteSpace(soDienThoai) ? null : soDienThoai,
-            NgayDangKy = DateTime.UtcNow,
+            NgayDangKy = DateTime.SpecifyKind(DateTime.UtcNow, DateTimeKind.Unspecified),
             LanDangNhapCuoi = null,
             AnhDaiDien = null
         };
