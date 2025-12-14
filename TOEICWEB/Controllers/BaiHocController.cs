@@ -31,6 +31,11 @@ namespace ToeicWeb.Controllers
             return string.Equals(role, "Admin", StringComparison.OrdinalIgnoreCase);
         }
 
+        private static DateTime CreateTimestamp()
+        {
+            return DateTime.SpecifyKind(DateTime.UtcNow, DateTimeKind.Unspecified);
+        }
+
         private static string BuildNextId(string? currentId, string prefix)
         {
             var digits = Math.Max(3, (currentId?.Length ?? prefix.Length + 3) - prefix.Length);
@@ -48,16 +53,66 @@ namespace ToeicWeb.Controllers
             return $"{prefix}{nextNumber.ToString($"D{digits}")}";
         }
 
+        private static bool TryExtractNumericSuffix(string? rawId, string prefix, out int numericValue)
+        {
+            numericValue = 0;
+            if (string.IsNullOrWhiteSpace(rawId))
+            {
+                return false;
+            }
+
+            var trimmed = rawId.Trim();
+            if (!trimmed.StartsWith(prefix, StringComparison.OrdinalIgnoreCase) || trimmed.Length <= prefix.Length)
+            {
+                return false;
+            }
+
+            var suffix = trimmed[prefix.Length..];
+            var digitCount = 0;
+            foreach (var ch in suffix)
+            {
+                if (!char.IsDigit(ch))
+                {
+                    break;
+                }
+                digitCount++;
+            }
+
+            if (digitCount == 0)
+            {
+                return false;
+            }
+
+            return int.TryParse(suffix[..digitCount], out numericValue);
+        }
+
         private async Task<string> GenerateNextLessonIdAsync()
         {
-            var last = await _context.BaiHocs
-                .AsNoTracking()
-                .Where(b => b.MaBai != null && b.MaBai.StartsWith("BH"))
-                .OrderByDescending(b => b.MaBai)
-                .Select(b => b.MaBai)
-                .FirstOrDefaultAsync();
+            const string prefix = "BH";
 
-            return BuildNextId(last, "BH");
+            var existingIds = await _context.BaiHocs
+                .AsNoTracking()
+                .Where(b => b.MaBai != null && b.MaBai.StartsWith(prefix))
+                .Select(b => b.MaBai!)
+                .ToListAsync();
+
+            var existingSet = existingIds
+                .Where(id => !string.IsNullOrWhiteSpace(id))
+                .Select(id => id.Trim())
+                .ToHashSet(StringComparer.OrdinalIgnoreCase);
+
+            var maxNumber = existingIds
+                .Select(id => TryExtractNumericSuffix(id, prefix, out var value) ? value : (int?)null)
+                .Max() ?? 0;
+
+            string candidate;
+            do
+            {
+                maxNumber++;
+                candidate = $"{prefix}{maxNumber:D3}";
+            } while (existingSet.Contains(candidate));
+
+            return candidate;
         }
 
         private async Task<string> GenerateNextDocIdAsync()
@@ -65,7 +120,8 @@ namespace ToeicWeb.Controllers
             var last = await _context.BaiDocs
                 .AsNoTracking()
                 .Where(b => b.MaBaiDoc != null && b.MaBaiDoc.StartsWith("BD"))
-                .OrderByDescending(b => b.MaBaiDoc)
+                .OrderByDescending(b => b.MaBaiDoc!.Length)
+                .ThenByDescending(b => b.MaBaiDoc)
                 .Select(b => b.MaBaiDoc)
                 .FirstOrDefaultAsync();
 
@@ -77,7 +133,8 @@ namespace ToeicWeb.Controllers
             var last = await _context.BaiNghes
                 .AsNoTracking()
                 .Where(b => b.MaBaiNghe != null && b.MaBaiNghe.StartsWith("BN"))
-                .OrderByDescending(b => b.MaBaiNghe)
+                .OrderByDescending(b => b.MaBaiNghe!.Length)
+                .ThenByDescending(b => b.MaBaiNghe)
                 .Select(b => b.MaBaiNghe)
                 .FirstOrDefaultAsync();
 
@@ -89,7 +146,8 @@ namespace ToeicWeb.Controllers
             var last = await _context.BaiViets
                 .AsNoTracking()
                 .Where(b => b.MaBaiViet != null && b.MaBaiViet.StartsWith("BV"))
-                .OrderByDescending(b => b.MaBaiViet)
+                .OrderByDescending(b => b.MaBaiViet!.Length)
+                .ThenByDescending(b => b.MaBaiViet)
                 .Select(b => b.MaBaiViet)
                 .FirstOrDefaultAsync();
 
@@ -130,15 +188,28 @@ namespace ToeicWeb.Controllers
                             {
                                 MaBaiDoc = await GenerateNextDocIdAsync(),
                                 MaBai = lesson.MaBai,
-                                NgayTao = DateTime.UtcNow
+                                NgayTao = CreateTimestamp()
                             };
                             _context.BaiDocs.Add(existing);
                         }
 
-                        existing.TieuDe = payload.TieuDe ?? lesson.TenBai;
-                        existing.DoKho = payload.DoKho;
+                        var resolvedTitle = string.IsNullOrWhiteSpace(payload.TieuDe)
+                            ? (lesson.TenBai ?? $"Bài học {lesson.MaBai}")
+                            : payload.TieuDe.Trim();
+
+                        existing.TieuDe = resolvedTitle;
                         existing.DuongDanFileTxt = payload.DuongDanFileTxt;
-                        existing.NoiDung = payload.NoiDung;
+
+                        var resolvedContent = string.IsNullOrWhiteSpace(payload.NoiDung)
+                            ? (!string.IsNullOrWhiteSpace(lesson.MoTa)
+                                ? lesson.MoTa
+                                : (!string.IsNullOrWhiteSpace(resolvedTitle)
+                                    ? resolvedTitle
+                                    : $"Bài đọc {lesson.MaBai} đang được cập nhật"))
+                            : payload.NoiDung.Trim();
+
+                        // Ensure noi_dung never violates NOT NULL constraint
+                        existing.NoiDung = resolvedContent;
 
                         return ("reading", existing.MaBaiDoc ?? string.Empty);
                     }
@@ -152,13 +223,12 @@ namespace ToeicWeb.Controllers
                             {
                                 MaBaiNghe = await GenerateNextListeningIdAsync(),
                                 MaBai = lesson.MaBai,
-                                NgayTao = DateTime.UtcNow
+                                NgayTao = CreateTimestamp()
                             };
                             _context.BaiNghes.Add(existing);
                         }
 
                         existing.TieuDe = payload.TieuDe ?? lesson.TenBai;
-                        existing.DoKho = payload.DoKho;
                         existing.DuongDanAudio = payload.DuongDanAudio;
                         existing.BanGhiAm = payload.BanGhiAm;
 
@@ -174,7 +244,7 @@ namespace ToeicWeb.Controllers
                             {
                                 MaBaiViet = await GenerateNextWritingIdAsync(),
                                 MaBai = lesson.MaBai,
-                                NgayTao = DateTime.UtcNow
+                                NgayTao = CreateTimestamp()
                             };
                             _context.BaiViets.Add(existing);
                         }
@@ -971,7 +1041,7 @@ namespace ToeicWeb.Controllers
                 MoTa = request.MoTa,
                 ThoiLuongPhut = request.ThoiLuongPhut,
                 SoThuTu = request.SoThuTu ?? await GetNextLessonOrderAsync(request.MaLoTrinh),
-                NgayTao = DateTime.SpecifyKind(DateTime.UtcNow, DateTimeKind.Unspecified)
+                NgayTao = CreateTimestamp(),
             };
 
             _context.BaiHocs.Add(lesson);
