@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TOEICWEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+750a7f6034076cc11ce40ecbe134d94bf4b7c982")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36fdaec8ae444b65d05ffd98bbd9ae2545c680c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TOEICWEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TOEICWEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
