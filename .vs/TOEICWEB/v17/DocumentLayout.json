@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Toeic\\BACKEND\\Webtoiec\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|d:\\toeic\\backend\\webtoiec\\toeicweb\\controllers\\lotrinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|solutionrelative:toeicweb\\controllers\\lotrinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|d:\\toeic\\backend\\webtoiec\\toeicweb\\controllers\\baihoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|solutionrelative:toeicweb\\controllers\\baihoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|d:\\toeic\\backend\\webtoiec\\toeicweb\\controllers\\lotrinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|solutionrelative:toeicweb\\controllers\\lotrinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3ED62001-C372-4CB6-98E9-21BFEC101B7B}|TOEICWEB\\TOEICWEB.csproj|d:\\toeic\\backend\\webtoiec\\toeicweb\\controllers\\baidoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 539,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoTrinhController.cs",
               "DocumentMoniker": "D:\\Toeic\\BACKEND\\Webtoiec\\TOEICWEB\\Controllers\\LoTrinhController.cs",
               "RelativeDocumentMoniker": "TOEICWEB\\Controllers\\LoTrinhController.cs",
@@ -79,15 +79,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BaiHocController.cs",
               "DocumentMoniker": "D:\\Toeic\\BACKEND\\Webtoiec\\TOEICWEB\\Controllers\\BaiHocController.cs",
               "RelativeDocumentMoniker": "TOEICWEB\\Controllers\\BaiHocController.cs",
               "ToolTip": "D:\\Toeic\\BACKEND\\Webtoiec\\TOEICWEB\\Controllers\\BaiHocController.cs",
               "RelativeToolTip": "TOEICWEB\\Controllers\\BaiHocController.cs",
-              "ViewState": "AgIAALADAAAAAAAAAAAIwGsEAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFYDAAAAAAAAAAAowFsDAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T13:42:32.794Z"
+              "WhenOpened": "2025-11-17T13:42:32.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

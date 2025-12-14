@@ -14,17 +14,16 @@ namespace ToeicWeb.Controllers
     public class BaiHocController : ControllerBase
     {
         private readonly SupabaseDbContext _context;
-
         private record LessonVideo(string? MaVideo, string? MaBai, string? TieuDeVideo, string? DuongDanVideo, int? ThoiLuongGiay, DateTime? NgayTao);
         private record LessonDoc(string? MaBaiDoc, string? MaBai, string? TieuDe, string? DoKho, string? DuongDanFileTxt, DateTime? NgayTao, int SoCauHoi, bool DaHoanThanh);
         private record LessonNghe(string? MaBaiNghe, string? MaBai, string? TieuDe, string? DoKho, string? DuongDanAudio, string? BanGhiAm, DateTime? NgayTao, int SoCauHoi, bool DaHoanThanh);
         private record LessonViet(string? MaBaiViet, string? MaBai, string? TieuDe, string? DeBai, string? BaiMau, int? SoTuToiThieu, int? SoTuToiDa, DateTime? NgayTao, bool DaHoanThanh);
 
+
         public BaiHocController(SupabaseDbContext context)
         {
             _context = context;
         }
-
         private bool CurrentUserIsAdmin()
         {
             var role = User.FindFirst("VaiTro")?.Value;
@@ -383,6 +382,7 @@ namespace ToeicWeb.Controllers
             _context.BaiHocs.Remove(lesson);
         }
 
+
         // ✅ LẤY DANH SÁCH TẤT CẢ BÀI HỌC
         [HttpGet]
         public async Task<IActionResult> GetAllBaiHoc()
@@ -485,22 +485,6 @@ namespace ToeicWeb.Controllers
                     .OrderBy(bd => bd.TieuDe)
                     .ToListAsync();
 
-                var baiViets = await _context.BaiViets
-                    .Where(bv => bv.MaBai == maBai)
-                    .Select(bv => new
-                    {
-                        bv.MaBaiViet,
-                        bv.MaBai,
-                        bv.TieuDe,
-                        bv.DeBai,
-                        bv.BaiMau,
-                        bv.SoTuToiThieu,
-                        bv.SoTuToiDa,
-                        bv.NgayTao
-                    })
-                    .OrderBy(bv => bv.TieuDe)
-                    .ToListAsync();
-
                 // 5. TRẢ VỀ KẾT QUẢ ĐẦY ĐỦ
                 return Ok(new
                 {
@@ -516,8 +500,7 @@ namespace ToeicWeb.Controllers
                         baiHoc.NgayTao,
                         Videos = videos,
                         BaiNghes = baiNghes,
-                        BaiDocs = baiDocs,
-                        BaiViets = baiViets
+                        BaiDocs = baiDocs
                     }
                 });
             }
@@ -534,13 +517,12 @@ namespace ToeicWeb.Controllers
             try
             {
                 var loTrinh = await _context.LoTrinhCoSans
-                    .AsNoTracking()
                     .FirstOrDefaultAsync(l => l.MaLoTrinh == maLoTrinh);
 
                 if (loTrinh == null)
                     return NotFound(new { message = "Không tìm thấy lộ trình" });
 
-                var lessons = await _context.BaiHocs
+                var baiHocs = await _context.BaiHocs
                     .Where(b => b.MaLoTrinh == maLoTrinh)
                     .OrderBy(b => b.SoThuTu)
                     .Select(b => new
@@ -555,205 +537,6 @@ namespace ToeicWeb.Controllers
                     })
                     .ToListAsync();
 
-                if (!lessons.Any())
-                {
-                    return Ok(new
-                    {
-                        message = "Danh sách bài học theo lộ trình",
-                        maLoTrinh = loTrinh.MaLoTrinh,
-                        tenLoTrinh = loTrinh.TenLoTrinh,
-                        kyNangTrongTam = loTrinh.KyNangTrongTam,
-                        chuDeBaiHoc = loTrinh.ChuDeBaiHoc,
-                        tongSoBaiHoc = 0,
-                        data = new List<object>()
-                    });
-                }
-
-                var lessonIds = lessons.Select(l => l.MaBai).Where(id => id != null).Cast<string>().ToList();
-
-                var videos = await _context.VideoBaiHocs
-                    .Where(v => lessonIds.Contains(v.MaBai))
-                    .Select(v => new LessonVideo(
-                        v.MaVideo,
-                        v.MaBai,
-                        v.TieuDeVideo,
-                        v.DuongDanVideo,
-                        v.ThoiLuongGiay,
-                        v.NgayTao))
-                    .ToListAsync();
-
-                var docsRaw = await _context.BaiDocs
-                    .Where(bd => lessonIds.Contains(bd.MaBai))
-                    .Select(bd => new
-                    {
-                        bd.MaBaiDoc,
-                        bd.MaBai,
-                        bd.TieuDe,
-                        bd.DoKho,
-                        bd.DuongDanFileTxt,
-                        bd.NgayTao,
-                        SoCauHoi = bd.CauHoiDocs.Count
-                    })
-                    .ToListAsync();
-
-                var ngheRaw = await _context.BaiNghes
-                    .Where(bn => lessonIds.Contains(bn.MaBai))
-                    .Select(bn => new
-                    {
-                        bn.MaBaiNghe,
-                        bn.MaBai,
-                        bn.TieuDe,
-                        bn.DoKho,
-                        bn.DuongDanAudio,
-                        bn.BanGhiAm,
-                        bn.NgayTao,
-                        SoCauHoi = bn.CauHoiNghes.Count
-                    })
-                    .ToListAsync();
-
-                var vietRaw = await _context.BaiViets
-                    .Where(bv => lessonIds.Contains(bv.MaBai))
-                    .Select(bv => new
-                    {
-                        bv.MaBaiViet,
-                        bv.MaBai,
-                        bv.TieuDe,
-                        bv.DeBai,
-                        bv.BaiMau,
-                        bv.SoTuToiThieu,
-                        bv.SoTuToiDa,
-                        bv.NgayTao
-                    })
-                    .ToListAsync();
-
-                var maNd = User?.Identity?.IsAuthenticated == true
-                    ? User.FindFirst(ClaimTypes.NameIdentifier)?.Value ?? User.FindFirst("sub")?.Value
-                    : null;
-
-                var completedDocIds = new HashSet<string>();
-                var completedNgheIds = new HashSet<string>();
-                var completedVietIds = new HashSet<string>();
-
-                if (!string.IsNullOrEmpty(maNd))
-                {
-                    var docIds = docsRaw.Select(d => d.MaBaiDoc).Where(id => id != null).Cast<string>().ToList();
-                    if (docIds.Count > 0)
-                    {
-                        completedDocIds = (await _context.KetQuaBaiDocs
-                                .Where(k => k.MaNd == maNd && docIds.Contains(k.MaBaiDoc!))
-                                .Select(k => k.MaBaiDoc!)
-                                .Distinct()
-                                .ToListAsync())
-                            .ToHashSet();
-                    }
-
-                    var ngheIds = ngheRaw.Select(n => n.MaBaiNghe).Where(id => id != null).Cast<string>().ToList();
-                    if (ngheIds.Count > 0)
-                    {
-                        completedNgheIds = (await _context.KetQuaBaiNghes
-                                .Where(k => k.MaNd == maNd && ngheIds.Contains(k.MaBaiNghe!))
-                                .Select(k => k.MaBaiNghe!)
-                                .Distinct()
-                                .ToListAsync())
-                            .ToHashSet();
-                    }
-
-                    var vietIds = vietRaw.Select(v => v.MaBaiViet).Where(id => id != null).Cast<string>().ToList();
-                    if (vietIds.Count > 0)
-                    {
-                        completedVietIds = (await _context.BaiVietHocViens
-                                .Where(k => k.MaNd == maNd && vietIds.Contains(k.MaBaiViet!))
-                                .Select(k => k.MaBaiViet!)
-                                .Distinct()
-                                .ToListAsync())
-                            .ToHashSet();
-                    }
-                }
-
-                var docs = docsRaw
-                    .Select(d => new LessonDoc(
-                        d.MaBaiDoc,
-                        d.MaBai,
-                        d.TieuDe,
-                        d.DoKho,
-                        d.DuongDanFileTxt,
-                        d.NgayTao,
-                        d.SoCauHoi,
-                        d.MaBaiDoc != null && completedDocIds.Contains(d.MaBaiDoc)))
-                    .ToList();
-
-                var nghe = ngheRaw
-                    .Select(n => new LessonNghe(
-                        n.MaBaiNghe,
-                        n.MaBai,
-                        n.TieuDe,
-                        n.DoKho,
-                        n.DuongDanAudio,
-                        n.BanGhiAm,
-                        n.NgayTao,
-                        n.SoCauHoi,
-                        n.MaBaiNghe != null && completedNgheIds.Contains(n.MaBaiNghe)))
-                    .ToList();
-
-                var viet = vietRaw
-                    .Select(v => new LessonViet(
-                        v.MaBaiViet,
-                        v.MaBai,
-                        v.TieuDe,
-                        v.DeBai,
-                        v.BaiMau,
-                        v.SoTuToiThieu,
-                        v.SoTuToiDa,
-                        v.NgayTao,
-                        v.MaBaiViet != null && completedVietIds.Contains(v.MaBaiViet)))
-                    .ToList();
-
-                var videosByLesson = videos
-                    .GroupBy(v => v.MaBai ?? string.Empty)
-                    .ToDictionary(g => g.Key, g => g.OrderBy(x => x.TieuDeVideo).ToList());
-
-                var docsByLesson = docs
-                    .GroupBy(d => d.MaBai ?? string.Empty)
-                    .ToDictionary(g => g.Key, g => g.OrderBy(x => x.TieuDe).ToList());
-
-                var ngheByLesson = nghe
-                    .GroupBy(n => n.MaBai ?? string.Empty)
-                    .ToDictionary(g => g.Key, g => g.OrderBy(x => x.TieuDe).ToList());
-
-                var vietByLesson = viet
-                    .GroupBy(v => v.MaBai ?? string.Empty)
-                    .ToDictionary(g => g.Key, g => g.OrderBy(x => x.TieuDe).ToList());
-
-                var result = lessons.Select(lesson =>
-                {
-                    var key = lesson.MaBai ?? string.Empty;
-                    var lessonVideos = videosByLesson.TryGetValue(key, out var vList) ? vList : new List<LessonVideo>();
-                    var lessonDocs = docsByLesson.TryGetValue(key, out var dList) ? dList : new List<LessonDoc>();
-                    var lessonNghes = ngheByLesson.TryGetValue(key, out var nList) ? nList : new List<LessonNghe>();
-                    var lessonViets = vietByLesson.TryGetValue(key, out var wList) ? wList : new List<LessonViet>();
-
-                    var totalContent = lessonDocs.Count + lessonNghes.Count + lessonViets.Count;
-                    var completedContent = lessonDocs.Count(d => d.DaHoanThanh) + lessonNghes.Count(n => n.DaHoanThanh) + lessonViets.Count(v => v.DaHoanThanh);
-                    var daHoanThanhBaiHoc = totalContent > 0 && completedContent >= totalContent;
-
-                    return new
-                    {
-                        lesson.MaBai,
-                        lesson.MaLoTrinh,
-                        lesson.TenBai,
-                        lesson.MoTa,
-                        lesson.ThoiLuongPhut,
-                        lesson.SoThuTu,
-                        lesson.NgayTao,
-                        Videos = lessonVideos,
-                        BaiDocs = lessonDocs,
-                        BaiNghes = lessonNghes,
-                        BaiViets = lessonViets,
-                        DaHoanThanhBaiHoc = daHoanThanhBaiHoc
-                    };
-                })
-                .ToList();
-
                 return Ok(new
                 {
                     message = "Danh sách bài học theo lộ trình",
@@ -761,8 +544,8 @@ namespace ToeicWeb.Controllers
                     tenLoTrinh = loTrinh.TenLoTrinh,
                     kyNangTrongTam = loTrinh.KyNangTrongTam,
                     chuDeBaiHoc = loTrinh.ChuDeBaiHoc,
-                    tongSoBaiHoc = lessons.Count,
-                    data = result
+                    tongSoBaiHoc = baiHocs.Count,
+                    data = baiHocs
                 });
             }
             catch (Exception ex)
@@ -772,9 +555,6 @@ namespace ToeicWeb.Controllers
         }
 
 
-        // ========================= NEW ENDPOINTS =========================
-
-        // 1) LẤY 1 BÀI HỌC + (BÀI ĐỌC, BÀI NGHE) + TRẠNG THÁI HOÀN THÀNH THEO USER
         [Authorize]
         [HttpGet("{maBai}/bai-doc-nghe")]
         public async Task<IActionResult> GetBaiHocWithDocsNghesAndStatus(string maBai)
@@ -839,26 +619,8 @@ namespace ToeicWeb.Controllers
                     .OrderBy(n => n.TieuDe)
                     .ToListAsync();
 
-                var baiViets = await _context.BaiViets
-                    .Where(bv => bv.MaBai == maBai)
-                    .Select(bv => new
-                    {
-                        bv.MaBaiViet,
-                        bv.MaBai,
-                        bv.TieuDe,
-                        bv.DeBai,
-                        bv.BaiMau,
-                        bv.SoTuToiThieu,
-                        bv.SoTuToiDa,
-                        bv.NgayTao,
-                        DaHoanThanh = _context.BaiVietHocViens
-                            .Any(k => k.MaBaiViet == bv.MaBaiViet && k.MaNd == maNd)
-                    })
-                    .OrderBy(v => v.TieuDe)
-                    .ToListAsync();
-
-                var tongNoiDung = baiDocs.Count + baiNghes.Count + baiViets.Count;
-                var daHoanThanh = baiDocs.Count(d => d.DaHoanThanh) + baiNghes.Count(n => n.DaHoanThanh) + baiViets.Count(v => v.DaHoanThanh);
+                var tongNoiDung = baiDocs.Count + baiNghes.Count;
+                var daHoanThanh = baiDocs.Count(d => d.DaHoanThanh) + baiNghes.Count(n => n.DaHoanThanh);
                 var daHoanThanhBaiHoc = tongNoiDung > 0 && daHoanThanh == tongNoiDung;
 
                 return Ok(new
@@ -869,7 +631,6 @@ namespace ToeicWeb.Controllers
                         BaiHoc = baiHoc,
                         BaiDocs = baiDocs,
                         BaiNghes = baiNghes,
-                        BaiViets = baiViets,
                         TongNoiDung = tongNoiDung,
                         HoanThanh = daHoanThanh,
                         DaHoanThanhBaiHoc = daHoanThanhBaiHoc
@@ -951,32 +712,14 @@ namespace ToeicWeb.Controllers
                     })
                     .ToListAsync();
 
-                var allViets = await _context.BaiViets
-                    .Where(bv => maBaiList.Contains(bv.MaBai))
-                    .Select(bv => new
-                    {
-                        bv.MaBaiViet,
-                        bv.MaBai,
-                        bv.TieuDe,
-                        bv.DeBai,
-                        bv.BaiMau,
-                        bv.SoTuToiThieu,
-                        bv.SoTuToiDa,
-                        bv.NgayTao,
-                        DaHoanThanh = _context.BaiVietHocViens
-                            .Any(k => k.MaBaiViet == bv.MaBaiViet && k.MaNd == maNd)
-                    })
-                    .ToListAsync();
-
                 // Gộp theo bài học
                 var result = lessons.Select(b =>
                 {
                     var docs = allDocs.Where(d => d.MaBai == b.MaBai).OrderBy(d => d.TieuDe).ToList();
                     var nghes = allNghes.Where(n => n.MaBai == b.MaBai).OrderBy(n => n.TieuDe).ToList();
-                    var viets = allViets.Where(v => v.MaBai == b.MaBai).OrderBy(v => v.TieuDe).ToList();
 
-                    var tong = docs.Count + nghes.Count + viets.Count;
-                    var done = docs.Count(d => d.DaHoanThanh) + nghes.Count(n => n.DaHoanThanh) + viets.Count(v => v.DaHoanThanh);
+                    var tong = docs.Count + nghes.Count;
+                    var done = docs.Count(d => d.DaHoanThanh) + nghes.Count(n => n.DaHoanThanh);
                     var doneBaiHoc = tong > 0 && done == tong;
 
                     return new
@@ -992,8 +735,7 @@ namespace ToeicWeb.Controllers
                         HoanThanh = done,
                         DaHoanThanhBaiHoc = doneBaiHoc,
                         BaiDocs = docs,
-                        BaiNghes = nghes,
-                        BaiViets = viets
+                        BaiNghes = nghes
                     };
                 })
                 .OrderBy(x => x.MaLoTrinh)
@@ -1124,7 +866,6 @@ namespace ToeicWeb.Controllers
 
             return Ok(new { message = "Đã xóa bài học" });
         }
-
 
 
 
